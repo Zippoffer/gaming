@@ -1,12 +1,41 @@
 h1 {
-	color: red;
+	color: lightgreen;
+	text-align: center;
 }
-
+.status {
+	text-align: center;
+	color: white;
+}
 
 td {
 	border: 1px solid black;
 	width: 100px;
 	height: 100px;
+	border-radius: 200%;
 	text-align: center;
-	font-size: 6vw;
+	font-size: 80px;
+	color: orange;
+	-webkit-text-stroke: 3px black;
+	/*background-image: url(https://images.blogthings.com/thecircledoodletest/circle-doodle-6.png);*/
+	background-image: url(http://images.fineartamerica.com/images/artworkimages/medium/1/concentric-circles-paul-sober.jpg);
+	background-size: 100px 100px;
+	background-repeat: no-repeat;
 }
+
+.container {
+	margin-top: 6%;
+	width: 600px;
+	height: 600px;
+	margin-left: 30%;
+	/*background-color: wheat;*/
+	background-image: url(http://azmind.com/wp-content/uploads/2012/09/wood-background-5.jpg);
+	/*background-image: url(http://www.easyfreepatterns.com/patterns/18/wood-backgrounds-hd-background-18123.jpg);*/
+	background-size: 600px 600px;
+	background-repeat: no-repeat;
+}
+table {
+	position: relative;
+	margin-left: 143px;
+	padding-top: 12%;
+}
+

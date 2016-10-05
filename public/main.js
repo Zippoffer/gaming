@@ -23,12 +23,12 @@ document.querySelector('#board').innerHTML = `
 			<td>${boardState[0][1]}</td>
 			<td>${boardState[0][2]}</td>
 		</tr>
-			<tr>
+		<tr>
 			<td>${boardState[1][0]}</td>
 			<td>${boardState[1][1]}</td>
 			<td>${boardState[1][2]}</td>
 		</tr>
-			<tr>
+		<tr>
 			<td>${boardState[2][0]}</td>
 			<td>${boardState[2][1]}</td>
 			<td>${boardState[2][2]}</td>
