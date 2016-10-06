@@ -13,10 +13,11 @@ td {
 	height: 100px;
 	border-radius: 200%;
 	text-align: center;
-	font-size: 80px;
+	font-size: 70px;
 	color: orange;
 	-webkit-text-stroke: 3px black;
 	/*background-image: url(https://images.blogthings.com/thecircledoodletest/circle-doodle-6.png);*/
+	/*background-image: url(./concentric-circles-paul-sober.jpg);*/
 	background-image: url(http://images.fineartamerica.com/images/artworkimages/medium/1/concentric-circles-paul-sober.jpg);
 	background-size: 100px 100px;
 	background-repeat: no-repeat;
