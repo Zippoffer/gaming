@@ -32,7 +32,6 @@ app.get('/game/create', (req, res) => {
 app.get('/game/:id', (req, res) => res.render('game'))
 
 
-
 mongoose.Promise = Promise
 mongoose.connect(MONGODB_URL, () => {
   server.listen(PORT, () => console.log(`Server listening on port: ${PORT}`))
